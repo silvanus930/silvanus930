@@ -10,8 +10,8 @@ professional experience in full-stack web development**, and over the
 
 ## 🚀 About Me
 
--   💻 3+ years building scalable and maintainable web applications\
--   🤖 1 year exploring AI application development using modern LLM
+-   💻 7+ years building scalable and maintainable web applications\
+-   🤖 2 year exploring AI application development using modern LLM
     tools\
 -   🔍 Interested in solving real-world problems with data and
     intelligent systems\
